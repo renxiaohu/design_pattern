@@ -1,7 +1,7 @@
 package design.structural_pattern.decorator_pattern.example;
 
 /**
- * <p>穿衣展示</p>
+ * <p>穿衣展示 Component</p>
  * Created by renxiaohu on 2016/12/1.
  */
 public class Person {

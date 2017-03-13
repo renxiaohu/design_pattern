@@ -17,6 +17,6 @@ public class ConcreteDecoratorB extends Decorator{
     }
     //本类独有的方法，区别于ConcreteDecoratorA
     private void addedBehavior(){
-
+        System.out.print("具体装饰对象B+的操作!----------------------");
     }
 }
