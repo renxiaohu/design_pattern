@@ -7,7 +7,7 @@ package design.behavioral_design_pattern.strategy_pattern.example;
  */
 public class CashRebate extends CashSuper{
 
-    private double moneyRabate = 1d;
+    private double moneyRabate = 0.8d;
 
     //初始化 输入折扣率
     public CashRebate(String moneyRabate){
